@@ -62,7 +62,7 @@ fi
     architecture="${ARCHITECTURE}" \
     binary-format="${BINARY_FORMAT}" \
     abi="${ABI}" \
-    debug-symbols=off \
+    debug-symbols=on \
     threading=multi \
     runtime-link=shared \
     link=static,shared \
